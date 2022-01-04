@@ -1,4 +1,3 @@
-cat total-locks.sql
 set serveroutput on;
 BEGIN
    dbms_output.enable(1000000);
